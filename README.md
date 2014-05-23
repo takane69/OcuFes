@@ -32,6 +32,7 @@ http://www.trialvillage.jp
 - @3taroid
 - @t_itamiya(OculusRift貸与)
 - @Qman
+- @toyshill_TSU
 - トラビレスタッフ/関係者
 
 記入漏れ・空欄・修正が必要な方はご連絡くださいありましたらご連絡ください！

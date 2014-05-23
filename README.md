@@ -14,7 +14,7 @@ http://www.trialvillage.jp
 
 |展示者|内容|必要スペース|必要電源数|  
 |---|---|---|---|  
-|[@yunayuna64](https://twitter.com/yunayuna64)|未定|||  
+|[@yunayuna64](https://twitter.com/yunayuna64)|本人来られずソフトのみ展示|||  
 |[@izm](https://twitter.com/izm)|電脳フィギュア|1|1|  
 |[@ta28jp](https://twitter.com/ta28jp)|マリオっぽいユニティちゃん|||
 |[@kirurobo](https://twitter.com/kirurobo)|ミクミクツンツン|||
@@ -33,6 +33,7 @@ http://www.trialvillage.jp
 - @t_itamiya(OculusRift貸与)
 - @Qman
 - @toyshill_TSU
+- @tyranusll(もぐらゲームス取材)
 - トラビレスタッフ/関係者
 
 記入漏れ・空欄・修正が必要な方はご連絡くださいありましたらご連絡ください！

@@ -23,8 +23,20 @@ http://www.trialvillage.jp
 |[@ena_wktk](https://twitter.com/ena_wktk)|うんコースター|隣で説明|0?|
 |[@wyvernMurai](https://twitter.com/wyvernMurai)|未定|||
 |[@minoaimino](https://twitter.com/minoaimino)|公園彼女|||
-|[@tezumashi](https://twitter.com/tezumashi)|Hashilus|1800x1800+長机||
+|[@tezumashi](https://twitter.com/tezumashi)|Hashilus|JOBA1台1800x900||
 |[@goroman](https://twitter.com/goroman)|握手？|対面|遅れて登場|
+
+##使えるテーブルサイズ
+|サイズ|数|備考|
+|---|---|---|
+|600x900|9個|白|
+|600x1200|2個||
+|700x1400|2個||
+|900x1800|1個||
+|1100x3800|2個||
+|450x1800|20個|会議室用|
+|600x1200|4個|会議室用キャスター付き|
+
 
 ##お手伝い
 - @AtsushiTheTramp
@@ -50,7 +62,7 @@ http://www.trialvillage.jp
 - 12:00	体験開始
 - ??:??	随時休憩
 - 17:00	イベント終了(予定)
-- ??:??	撤収→有志で打ち上げ？
+- 18:00	この時間くらいまでを目処に撤収→有志で打ち上げ？
 
 #その他展示に際しての主催者からのお願い
 混み具合にもよりますが、短時間で体験できるようなコンテンツだと回転率も上がりますし、酔いにくいかと思います。　　

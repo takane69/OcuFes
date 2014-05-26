@@ -47,7 +47,8 @@ http://www.trialvillage.jp
 - @toyshill_TSU
 - @tyranusll(もぐらゲームス取材)
 - トラビレスタッフ/関係者
-###お手伝いの方の役割
+
+##お手伝いの方の役割
 - 展示代行
 - 行列整理
 - 会場までの案内

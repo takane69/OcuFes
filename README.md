@@ -46,6 +46,7 @@ http://www.trialvillage.jp
 - @Qman
 - @toyshill_TSU
 - @tyranusll(もぐらゲームス取材)
+- 中村さん@MapQuest(DoubleRobotics)
 - トラビレスタッフ/関係者
 
 ##お手伝いの方の役割

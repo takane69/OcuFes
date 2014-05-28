@@ -17,7 +17,7 @@ http://www.trialvillage.jp
 |[@yunayuna64](https://twitter.com/yunayuna64)|本人来られずソフトのみ展示|||  
 |[@izm](https://twitter.com/izm)|電脳フィギュア|1|1|  
 |[@ta28jp](https://twitter.com/ta28jp)|マリオっぽいユニティちゃん|||
-|[@kirurobo](https://twitter.com/kirurobo)|つんつんTuneちゃん|||
+|[@kirurobo](https://twitter.com/kirurobo)|つんつんTuneちゃん|机600x900|2|
 |[@udasan_koubou](https://twitter.com/udasan_koubou) |少女救出|	机600x1200隣で説明||
 |[@takane69](https://twitter.com/takane69)|VR手筒花火|隣で説明|4?|
 |[@ena_wktk](https://twitter.com/ena_wktk)|うんコースター|隣で説明|0?|

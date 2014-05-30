@@ -1,4 +1,7 @@
 Oculus Festival in 豊橋 スタッフ向け資料
+
+###もぐら取材とテレビ取材が入ります。ご協力お願いします。
+
 #会場
 
 〒440-0881 愛知県豊橋市広小路1−18  
@@ -26,6 +29,7 @@ http://www.trialvillage.jp
 |[@tezumashi](https://twitter.com/tezumashi)|Hashilus|JOBA1台1800x900||
 ||MKリフレ|||
 |[@goroman](https://twitter.com/goroman)|握手？|対面|遅れて登場|
+|[@ryutosouma](https://twitter.com/RyutoSouma)|MikuMikuOppai|||
 
 ##使えるテーブルサイズ
 |サイズ|数|備考|

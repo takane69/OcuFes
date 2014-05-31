@@ -29,7 +29,7 @@ http://www.trialvillage.jp
 |[@tezumashi](https://twitter.com/tezumashi)|Hashilus|JOBA1台1800x900||
 ||MKリフレ|||
 |[@goroman](https://twitter.com/goroman)|握手？|対面|遅れて登場|
-|[@ryutosouma](https://twitter.com/RyutoSouma)|MikuMikuOppai|||
+|[@ryutosouma](https://twitter.com/RyutoSouma)|TuneTuneOppai|||
 
 ##使えるテーブルサイズ
 |サイズ|数|備考|
